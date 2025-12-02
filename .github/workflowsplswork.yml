@@ -1,0 +1,5 @@
+git clone https://github.com/l4uy/waves/
+
+cd waves
+
+sh setup.sh
